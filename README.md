@@ -37,6 +37,7 @@ To develop a project hospital management System using star UML tools.
 
 ![image](https://github.com/user-attachments/assets/1c15bca0-0e49-479d-8b05-e0e9e8cf8d09)
 
+
 ## PACKAGE DIAGRAM:
 
 ![image](https://github.com/user-attachments/assets/195b8fd7-f72d-477a-afd6-9ccd41625f69)
